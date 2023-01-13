@@ -66,7 +66,7 @@ params:
   # Configure various features of this theme
   features:
 
-    # Enable dark theme
+    # Enable dark theme#
     darkMode:
       enable: true
       services:
@@ -81,11 +81,11 @@ params:
 
     # Enable and configure portfolio
     portfolio:
-      enable: true
+      enable: false
 
     # Enable and configure blog posts
     blog:
-      enable: true
+      enable: false
       # Share post on different social media
       shareButtons:
         facebook: true
